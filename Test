@@ -1,2 +1,7 @@
 Does this work??
 Hi JQ :)
+
+# Create function
+
+def calc(a,b):
+    return(a + b)
